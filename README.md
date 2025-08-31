@@ -7,7 +7,7 @@ outlet management.
 
 ---
 
-**Objectives**
+**Objectives:**
 Analyze sales distribution across different item categories and outlet types.Identify the relationship between item visibility, weight, and sales Compare outlet
 performance based on size, location type, and establishment year.Develop interactive Excel dashboards for decision-making.Provide recommendations to improve sales and operations
 
