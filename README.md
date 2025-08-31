@@ -30,6 +30,7 @@ Rating – Customer rating
 Excel – Data cleaning, pivot tables, dashboards
 
 **Dashboard Insights**
+
 The project includes an Excel Dashboard with interactive charts showing:
 1.Sales trends by item type and outlet type
 2.Comparison of outlet performance
