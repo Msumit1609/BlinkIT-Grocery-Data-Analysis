@@ -32,10 +32,10 @@ Excel – Data cleaning, pivot tables, dashboards
 **Dashboard Insights**
 
 The project includes an Excel Dashboard with interactive charts showing:
-1.Sales trends by item type and outlet type
-2.Comparison of outlet performance
-3.Distribution of ratings and fat content
-4.Year-wise analysis of establishment and sales growth
+1.Sales trends by item type and outlet type.
+2.Comparison of outlet performance.
+3.Distribution of ratings and fat content.
+4.Year-wise analysis of establishment and sales growth.
 
 **Conclusion**
 
