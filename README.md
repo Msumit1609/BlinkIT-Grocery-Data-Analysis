@@ -25,7 +25,7 @@ Outlet Size – Small / Medium / High
 Sales – Sales of the item
 Rating – Customer rating
 ```
-**Tools & Technologies***
+**Tools & Technologies**
 
 Excel – Data cleaning, pivot tables, dashboards
 
